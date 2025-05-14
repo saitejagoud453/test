@@ -1,0 +1,10 @@
+version: 2
+ 
+sources:
+  - name: snowflake
+    schema: DBT_SRUDRAGONI
+    database: MY_DATABASE
+    tables:
+      - name: EMP
+      
+      - name: walmart
