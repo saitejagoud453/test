@@ -2,9 +2,7 @@ version: 2
  
 sources:
   - name: snowflake
-    schema: DBT_SRUDRAGONI
-    database: MY_DATABASE
+    schema: PUBLIC
+    database: DEMO
     tables:
-      - name: EMP
-      
       - name: walmart

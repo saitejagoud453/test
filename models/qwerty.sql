@@ -1,1 +1,0 @@
-select employeeid,name,salary from {{source('snowflake','EMP')}} where salary >=90000

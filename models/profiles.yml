@@ -1,0 +1,12 @@
+my_profile:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: VEOHZLZ-WT88932
+      user: SAITEJA
+      password: Stgrudra@2222
+      role: ACCOUNTADMIN
+      database: DEMO
+      warehouse: COMPUTE_WH
+      schema: PUBLIC
